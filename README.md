@@ -2,22 +2,21 @@
 
 PROXIMITY is the business solution for location-based conversations. Brands can now reach their audience in context, and with confidence, providing a more powerful and consistent medium to deliver offers and messages
 
-### Features
+### BLOG
 
-* Coming soon
+* Content that is provided by the Strategic Machines team on key concepts and innovations related to this solution platform
 
 ### Usage
 
-1. Clone this repository.
-2. This website operates with netlify microservices. Set up your environment to test locally with netlify-lambdas.
-3. Mongodb should be enabled locally and remotely, using a service such as Atlas
-4. Note that locally testing with netlify-lambda requires running a nodejs proxy server
+Blog generated using create-react-blog
 
-### Prerequisites
+### LICENSE APP
 
-- [MongoDB (version 3.6 or superior)](https://www.mongodb.com/download-center#community)
-- [Node.js (10 or superior)](https://nodejs.org/en/download/)
+MIT - for the blog 
 
-### LICENSE
+### LICENSE CONTENT
+© 2020 Strategic Machines
 
-MIT
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, contact Strategic Machines, addressed “Attention: Permissions Coordinator,” at strategicmachines@gmail.com
+
+
