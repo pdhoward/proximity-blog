@@ -1,6 +1,6 @@
 export default {
-  title: `Conversations are hard`,
+  title: `Is Conversational Commerce right for my business?`,
   tags: ['marketing', 'sales', 'messaging'],
-  spoiler: "The holy grail of ai is ..",
+  spoiler: "How can i be sure that AI will help me grown?",
   getContent: () => import('./document.mdx'),
 }
