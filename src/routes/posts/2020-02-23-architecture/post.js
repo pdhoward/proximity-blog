@@ -1,6 +1,6 @@
 export default {
-  title: `The Conversation stack`,
+  title: `Architecture is essential`,
   tags: ['marketing', 'sales', 'messaging'],
-  spoiler: "Making the complex simple",
+  spoiler: "Not all design is architecture ...",
   getContent: () => import('./document.mdx'),
 }
