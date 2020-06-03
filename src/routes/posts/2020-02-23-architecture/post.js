@@ -1,6 +1,6 @@
 export default {
   title: `Architecture is essential`,
-  tags: ['marketing', 'sales', 'messaging'],
+  tags: ['architecture', 'software', 'design'],
   spoiler: "Not all design is architecture ...",
   getContent: () => import('./document.mdx'),
 }
