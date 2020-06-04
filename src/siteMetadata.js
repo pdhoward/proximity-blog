@@ -7,5 +7,5 @@ export default {
   description: "Innovation at the Edge",
 
   // The number of posts to a page on the site index.
-  indexPageSize: 10,
+  indexPageSize: 6,
 }

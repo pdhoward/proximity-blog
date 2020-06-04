@@ -1,6 +1,6 @@
 export default {
   title: `Context is the Design Point`,
-  tags: ['context', 'content', 'dxp'],
+  tags: ['content', 'software'],
   spoiler: "Design is the tipping point ...",
   getContent: () => import('./document.mdx'),
 }
