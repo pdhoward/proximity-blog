@@ -1,6 +1,6 @@
 export default {
-  title: `Context is the Design Point`,
+  title: `Marketing Watershed Moment`,
   tags: ['content', 'software'],
-  spoiler: "Design is the tipping point ...",
+  spoiler: "It has been two decades since ...",
   getContent: () => import('./document.mdx'),
 }
