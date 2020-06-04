@@ -1,6 +1,6 @@
 export default {
-  title: `Goodbye SMS`,
-  tags: ['messaging', 'software', 'rcs'],
-  spoiler: "Rich Communication Services and text ...",
+  title: `Content as code`,
+  tags: ['content', 'software'],
+  spoiler: "Does your content requires a devops process?",
   getContent: () => import('./document.mdx'),
 }
