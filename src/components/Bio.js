@@ -4,10 +4,12 @@ import logo from '../assets/icon-512x512.png'
 import { getGravatarURL } from '../utils/getGravatarURL'
 
 function Bio(props) {
+  /*
   let photoURL = getGravatarURL({
     email: "test1@example.com",
     size: 56,
   })
+  */
 
   return (
     <div className={`
