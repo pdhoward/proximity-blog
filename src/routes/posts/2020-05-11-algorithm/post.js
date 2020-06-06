@@ -1,6 +1,6 @@
 export default {
   title: `Algorithms`,
-  tags: ['content', 'software'],
-  spoiler: "There is a lot of power in ...",
+  tags: ['data science', 'functions', 'algorithm'],
+  spoiler: "Building campaigns to reach the audience of one...",
   getContent: () => import('./document.mdx'),
 }

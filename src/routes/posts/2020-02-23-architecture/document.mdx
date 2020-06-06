@@ -1,15 +1,13 @@
-import naviLogo from './navi-logo.svg'
-import reactLogo from './react-logo.svg'
+import gears from './gears.jpg'
 import styles from './document.module.css'
 
 <div className={styles["Welcome"]}>
 
-<div className={styles["logo"]}>
-  <img src={naviLogo} className={styles["logo-navi"]} alt="logo" />
-  <img src={reactLogo} className={styles["logo-react"]} alt="logo" />
+<div className={styles["rcs"]}>
+  <img src={gears} alt="gears" /> 
 </div>
 
-## So what is a 'system architecture' and why is it so important?
+## Design first philosophy
 [Grady Booch](https://www.youtube.com/watch?v=z0HsPBKfhoI), the IBM research scientist, observed “all architecture is design but not all design is architecture“. In other words, architecture doesn't happen by accident but requires a deliberate, thoughtful design process.
 
 You may have read the academic definition of architecture: when applied to systems it refers to the organization of processes, procedures, practices and policies which are combined for a specific purpose. (Some even include people or 'actors' as part of the architecture - but we'll leave that for others to debate) It is readily understood that a system which is well-architected is easier to use and maintain. The system can be readily extended, and the composition of the system is logically coherent and physically cohesive. A well-architected system is easy to spot. A poorly-architected system is everyone's bane.
