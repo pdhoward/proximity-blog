@@ -1,6 +1,6 @@
 export default {
-  title: `Venue Web App`,
+  title: `Global Reach. Local Experience`,
   tags: ['marketing', 'software', 'pwa'],
-  spoiler: "An app experience for every customer in every venue through the web ...",
+  spoiler: "A web app for every venue ...",
   getContent: () => import('./document.mdx'),
 }
