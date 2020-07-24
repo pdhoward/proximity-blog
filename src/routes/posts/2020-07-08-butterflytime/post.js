@@ -1,6 +1,6 @@
 export default {
-  title: `Global Reach. Local Experience`,
-  tags: ['marketing', 'software', 'pwa'],
-  spoiler: "A web app for every venue ...",
+  title: `Butterfly Time`,
+  tags: ['location', 'time', 'segment'],
+  spoiler: "Monarch butterflies and marketing teams have a few things in common ...",
   getContent: () => import('./document.mdx'),
 }
