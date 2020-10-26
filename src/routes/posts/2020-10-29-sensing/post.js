@@ -1,6 +1,6 @@
 export default {
-  title: `Hyperconnected`,
-  tags: ['network', 'time'],
-  spoiler: "How should governance work in a networked world...",
+  title: `Ambient Signals`,
+  tags: ['sensors', 'network', 'IOT'],
+  spoiler: "Sensing a new opportunity in customer service...",
   getContent: () => import('./document.mdx'),
 }
